@@ -1,0 +1,688 @@
+[
+    {
+        "bab":1,
+        "judul":"بَابُ الكَلَامِ",
+        "nama":"bab kalam",
+        "bg":"#64748b",
+        "position":[],
+        "keterangan":"kalam adalah lafaz yang tersusun yang memberikan pemahaman dengan wadho",
+        "image":"/image/1.svg",
+        "img":"",
+        "arab":[
+            "الكَلَامُ هُوَ اللَّفْظُ المُرَكَّبُ المُفِيْدُ بِالوَضْعِ",
+            "وَأَقْسَامُهُ ثَلَاثَةٌ : اِسْمٌ، وَفِعْلٌ، وَحَرْفٌ جَاءَ لِمَعْنًى",
+            "فَالِاسْمُ يُعْرَفُ بِالخَفْضِ وَالتَّنْوِينِ، وَدُخُولِ اَلْأَلِفِ وَاللَّامِ، وَحُرُوفِ اَلْخَفْضِ وَهِيَ: (مِنْ)، وَ(إِلَى)، وَ(عَنْ)، وَ(عَلَى)، وَ(فِي)، وَ(رُبَّ)، وَ(الْبَاءُ)، وَ(الْكَافُ)، وَ(اللَّامُ)، وَحُرُوفِ اَلْقَسَمِ وَهِيَ: (الْوَاوُ)، وَ(الْبَاءُ)، وَ(التَّاءُ)",
+            "والفِعْلُ يُعْرَفُ بِـ(قَدْ) وَ(السِّيْنِ) وَ(سَوْفَ) وَ(تَاءِ التَّأْنِيْثِ السَّاكِنَةِ)",
+            "وَالحَرْفُ مَالَا يَصْلُحُ مَعَهُ دَلِيْلُ الاِسْمِ وَلَا دَلِيْلُ الفِعْلِ"
+        ],
+        "latin":[
+            "Kalam adalah suara yang tersusun, memberikan faidah, dan dengan wado`(di sengaja dan berbhasa arab)",
+            "Kalam terbagi tiga: isim - fi`il - dan huruf yang memiliki arti",
+            "Isim dapat diketahui dengan: khofdh, tanwin, masuknya alif lam, dan huruf-huruf khofdh yaitu : min, ilaa, `an, `alaa, fiy, rubba, al-baa-u, al-kaafu, al-laamu. Dan huruf-huruf sumpah yaitu : al-waawu, al baa-u, dan at-taa-u",
+            "Dan fi`il dapat dikenali dengan : qod, huruf sin, saufa, dan ta` ta`nits sakinah",
+            "Sementara huruf tidak layak ditandai dengan tanda isim maupun fi`il"
+        ]
+    },
+    {
+        "bab":2,
+        "judul":"بَابُ الإِعْرَابِ",
+        "nama":"bab ikrob",
+        "bg":"#71717a",
+        "position":[4],
+        "keterangan":"I'rob adalah perubahan pada akhir kalimat karena perbedaan faktor yang masuk, secara lafaz / secara takdir",
+        "image":"/image/2.svg",
+        "img":[
+            "/img/ikrob isim fiil.svg"
+        ],
+        "arab":[
+            "الإِعْرَابُ هُوَ تَغْيِيْرُ أَوَاخِرِ الكَلِمِ لِاخْتِلَافِ العَوَامِلِ الدَّاخِلَةِ عَلَيْهَا لَفْظًا أَوْ تَقْدِيْرًا",
+            "وَأَقْسَامُهُ أَرْبَعَةٌ : رَفْعٌ وَنَصْبٌ وَخَفْضٌ وَجَزْمٌ",
+            "فَلِلْأَسْمَاءِ مِنْ ذَلِكَ الرَّفْعُ وَالنَّصْبُ وَالَخفْضُ وَلَا جَزْمَ فِيْهَا",
+            "وَلِلْأَفْعَالِ مِنْ ذَلِكَ الرَّفْعُ وَالنَّصْبُ وَالَجزْمُ وَلَا خَفْضَ فِيْهَا"
+        ],
+        "latin":[
+            "I`rob adalah perubahan pada akhir kalimat karena perbedaan faktor yang masuk kepadanya, baik perubahan itu secara lafaz atau secara takdir.",
+            "i`rob ada 4 macam yaitu: rofa` - nashob - khofdh - jazm",
+            "I`rob untuk isim yaitu: rofa`, nashob dan khofd. Tidak ada jazm bagi isim",
+            "I`rob bagi fi`il yaitu: rofa`, nashob dan jazm. Tidak ada khofd bagi fi`il"
+        ]
+    },
+    {
+        "bab":3,
+        "judul":"بَابُ مَعْرِفَةِ عَلَامَاتِ اﻹِعْرَابِ",
+        "nama":"bab makrifat alamatil ikrob",
+        "bg":"#78716c",
+        "position":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,117,18],
+        "keterangan":"bab menerangkan pertanda yang di rofa' kan",
+        "image":"/image/3.svg",
+        "img":[
+            "/img/rofak.svg",
+            "/img/rofak1.svg",
+            "/img/rofak2.svg",
+            "/img/rofak3.svg",
+            "/img/rofak4.svg",
+
+            "/img/nasab.svg",
+            "/img/nasab1.svg",
+            "/img/nasab2.svg",
+            "/img/nasab3.svg",
+            "/img/nasab4.svg",
+            "/img/nasab5.svg",
+
+            "/img/khofad.svg",
+            "/img/khofad1.svg",
+            "/img/khofad2.svg",
+            "/img/khofad3.svg",
+
+            "/img/jazam.svg",
+            "/img/jazam1.svg",
+            "/img/jazam2.svg"
+        ],
+        "arab":[
+            "لِلرَّفْعِ أَرْبَعُ عَلَامَاتٍ : الضَّمَّةُ وَالْوَاوُ وَالْأَلِفُ وَالنُّوْنُ",
+            "فَأَمَّا الضَّمَّةُ؛ فَتَكُوْنُ عَلَامَةً لِلرَّفْعِ فِي أَرْبَعَةِ مَوَاضِعَ : فِي الْاِسْمِ المُفْرَدِ وَجَمْعِ التَّكْسِيْرِ وَجَمْعِ المُؤَنَّثِ السَّالِمِ وَالفِعْلِ المُضَارِعِ الَّذِي لَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ",
+            "وَأَمَّا الوَاوُ فَتَكُوْنُ عَلَامَةً لِلرَّفْعِ فِي مَوْضِعَيْنِ : فِي جَمْعِ المُذَكَّرِ السَّالِمِ وَفِي الأَسْمَاءِ الخَمْسَةِ، وَهِيَ : (أَبُوْكَ)، وَ(أَخُوْكَ)، وَ(حَمُوْكِ)، وَ(فُوْكَ)، وَ(ذُو مَالٍ)",
+            "وَأَمَّا الأَلِفُ فَتَكُوْنُ عَلَامَةً لِلرَّفْعِ فِي تَثْنِيَةِ الأَسْمَاءِ خَاصَةً",
+            "وَأَمَّا النُّوْنُ فَتَكُوْنُ عَلَامَةً لِلرَّفْعِ فِي الفِعْلِ المُضَارِعِ إِذَا اتَّصَلَ بِهِ ضَمِيْرُ تَثْنِيَةٍ، أَوْ ضَمِيْرُ جَمْعٍ، أَوْ ضَمِيْرُ المُؤَنَّثَةِ المُخَاطَبَةِ",
+            "وَلِلنَّصْبِ خَمْسُ عَلَامَاتٍ : الفَتْحَةُ وَالأَلِفُ وَالكَسْرَةُ وَاليَاءُ وَحَذْفُ النُّوْنِ",
+            "فَأَمَّا الفَتْحَةُ فَتَكُوْنُ عَلَامَةً لِلنَّصْبِ فِي ثَلَاثَةِ مَوَاضِعَ : فِي الاِسْمِ المُفْرَدِ، وَجَمْعِ التَّكْسِيْرِ، وَالفِعْلِ المُضَارِعِ إِذَا دَخَلَ عَلَيْهِ نَاصِبٌ وَلَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ",
+            "وَأَمَّا الأَلِفُ فَتَكُوْنُ عَلَامَةً لِلنَّصْبِ فِي الأَسْمَاءِ الخَمْسَةِ، نَحْوُ : (رَأَيْتُ أَبَاكَ وَأَخَاكَ)",
+            "وَأَمَّا الكَسْرَةُ فَتَكُوْنُ عَلَامَةً لِلنَّصْبِ فِي جَمْعِ المُؤَنَّثِ السَّالِمِ",
+            "وَأَمَّا اليَاءُ فَتَكُوْنُ عَلَامَةً لِلنَّصْبِ فِي التَّثْنِيَةِ وَالجَمْعِ",
+            "وَأَمَّا حَذْفُ النُّوْنِ فَيَكُوْنُ عَلَامَةً لِلنَّصْبِ فِي الأَفْعَالِ الخَمْسَةِ الَّتِي رَفْعُهَا بِثُبُوْتِ النُّوْنِ",
+            "وَلِلْخَفْضِ ثَلَاثُ عَلَامَاتٍ : الكَسْرَةُ، وَاليَاءُ، وَالفَتْحَةُ",
+            "فَأَمَّا الكَسْرَةُ؛ فَتَكُوْنُ عَلَامَةً لِلْخَفْضِ فِي ثَلَاثَةِ مَوَاضِعَ : فِي الِاسْمِ المُفْرَدِ المُنْصَرِفِ، وَجَمْعِ التَّكْسِيْرِ المُنْصَرِفِ، وَجَمْعِ المُؤَنَّثِ السَّالِمِ",
+            "وَأَمَّا اليَاءُ؛ فَتَكُوْنُ عَلَامَةً لِلْخَفْضِ فِي ثَلَاثَةِ مَوَاضِعَ : فِي الأَسْمَاءِ الخَمْسَةِ، وَفِي التَّثْنِيَةِ وَالجَمْعِ",
+            "وَأَمَّا الفَتْحَةُ؛ فَتَكُوْنُ عَلَامَةً لِلْخَفْضِ فِي الاِسْمِ الَّذِي لَا يَنْصَرِفُ",
+            "وَلِلْجَزْمِ عَلَامَتَانِ : السُّكُوْنُ، وَالحَذْفُ",
+            "فَأَمَّا السُّكُوْنُ؛ فَيَكُوْنُ عَلَامَةً لِلْجَزْمِ فِي الفِعْلِ المُضَارِعِ الصَّحِيْحِ الآخِرِ",
+            "وَأَمَّا الحَذْفُ؛ فَيَكُوْنُ عَلَامَةً لِلْجَزْمِ فِي الفِعْلِ المُضَارِعِ المُعْتَلِّ الآخِرِ، وَفِي الأَفْعَالِ الخَمْسَةِ الَّتِي رَفْعُهَا بِثَبَاتِ النُّوْنِ"
+        ],
+        "latin":[
+            "rofa` memiliki 4 pertanda yaitu: Dommah, Wawu(و), 3 Alif (ا), 4 Nun(ن)",
+            "Dhammah menjadi tanda bagi rofa` pada 4 tempat yaitu: isim Mufrod, Jamak Taksir, Jamak Muannats Salim, Fi`il Mudhari` yang akhirannya tidak bersambung dengan sesuatu apapun",
+            "wawu(و) menjadi tanda bagi rofa` pada 2 tempat yaitu: Jamak Mudzakkar Salim, Al-Asma` Al-Khomsah أَبُوْكَ (ayahmu); أَخُوْكَ (saudaramu); حَمُوْكِ (iparmu); فُوْكَ (mulutmu); ذُوْ مَالٍ (yang memiliki harta)",
+            "alif(ا) menjadi tanda bagi rofa` pada isim mutsanna(asmaul khossoh)",
+            "nun(ن) menjadi tanda bagi rofa` pada fi`il mudhari` apabila ia bersambung dengan dhomir tasniyah atau domir jamak atau domir muannats mukhotobah",
+            "Nashob memiliki 5 tanda yaitu: fathah, alif, kasroh, yaa, hadzfun nun(membuang huruf nun)",
+            "Fathah menjadi tanda bagi nashob pada 3 tempat yaitu: Isim Mufrod, Jamak Taksir, Fi`il Mudhari` yang masuk amil nashab dan di akhirannya tidak bersambung dengan sesuatu apapun",
+            "Alif menjadi tanda bagi nashob pada: al-asma` al-khomsah Seperti contohnya : Roaitu Abaaka wa akhooka (aku melihat ayah dan saudaramu)",
+            "kasroh menjadi tanda bagi nashob pada: Jamak Muannats Salim",
+            "yaa menjadi tanda bagi nashob pada: tasniyah dan jamak",
+            "hadzfun nun (pembuangan huruf nun) menjadi tanda bagi nashob pada fi`il yang lima yang rofa`nya dengan adanya huruf nun",
+            "Khofdh memiliki 3 tanda yaitu: Kasroh, Ya`, Fathah",
+            "kasroh menjadi tanda bagi khofdh di 3 tempat: Isim Mufrod Munshorif, Jamak Taksir Munshorif, Jamak Muannats Salim",
+            "Ya` menjadi tanda bagi khofdh pada 3 tempat: Al-Asma`` Al-Khomsah, Tatsniyah, Jamak",
+            "fathah menjadi tanda bagi khofdh pada: isim yang tidak munshorif (isim goiru munshorif)",
+            "Tanda Jazm ada 2 : Sukun, Hadzfu (pembuangan)",
+            "sukun menjadi tanda bagi jazm pada: fi`il mudhari` shahih akhir",
+            "hadzfu (membuang) menjadi tanda bagi jazm pada: fi`il mudhari` mu`tal akhir dan di fi`il yang lima yang rofa`nya dengan tetapnya huruf nun"
+        ]
+    },
+    {
+        "bab":4,
+        "judul":"فَصْلٌ",
+        "nama":"faslun",
+        "bg":"#f97316",
+        "position":[4,9],
+        "keterangan":"yang di'irob ada dua macam, yaitu :1 Jenis yang di i'rob dengan harokat; 2 Jenis yang di i'rob dengan huruf",
+        "image":"/image/4.svg",
+        "img":[
+            "/img/ikrob harkat.svg",
+            "/img/ikrob huruf.svg"
+        ],
+        "arab":[
+            "المُعْرَبَاتُ قِسْمَانِ : قِسْمٌ يُعْرَبُ بِالحَرَكَاتِ، وَقِسْمٌ يُعْرَبُ بِالحُرُوْفِ",
+            "فَالَّذِي يُعْرَبُ بِالحَرَكَاتِ أَرْبَعَةُ أَنْوَاعٍ : الاِسْمُ المُفْرَدُ، وَجَمْعُ التَّكْسِيْرِ، وَجَمْعُ المُؤَنَّثِ السَّالِمُ، وَالفِعْلُ المُضَارِعُ الَّذِي لَمْ يَتَّصِلْ بِآخِرِهِ شَيْءٌ",
+            "وَكُلُّهَا تُرْفَعُ بِالضَّمَّةِ، وَتُنْصَبُ بِالفَتْحَةِ، وَتُخْفَضُ بِالكَسْرَةِ، وَتُجْزَمُ بِالسُّكُوْنِ",
+            "وَخَرَجَ عَنْ ذَلِكَ ثَلَاثَةُ أَشْيَاءَ : جَمْعُ المُؤَنَّثِ السَّالِمُ يُنْصَبُ بِالكَسْرَةِ، وَالاِسْمُ الَّذِي لَا يَنْصَرِفُ يُخْفَضُ بِالفَتْحَةِ، وَالفِعْلُ المُضَارِعُ المُعْتَلُّ الآخِرُ يُجْزَمُ بِحَذْفِ آخِرِهِ",
+            "وَالَّذِي يُعْرَبُ بِالحُرُوْفِ أَرْبَعَةُ أَنْوَاعٍ : التَّثْنِيَةُ، وَجَمْعُ المُذَكَّرِ السَّالِمُ، وَالأَسْمَاءُ الخَمْسَةُ، وَالأَفْعَالُ الخَمْسَةُ، وَهِيَ : يَفْعَلَانِ، وَتَفْعَلَانِ، وَيَفْعَلُوْنَ، وَتَفْعَلُوْنَ، وَتَفْعَلِيْنَ",
+            "فَأَمَّا التَّثْنِيَةُ فَتُرْفَعُ بِالأَلِفِ، وَتُنْصَبُ وَتُخْفَضُ بِاليَاءِ",
+            "وَأَمَّا جَمْعُ المُذَكَّرِ السَّالِمُ فَيُرْفَعُ بِالوَاوِ، وَيُنْصَبُ وَيُخْفَضُ بِاليَاءِ",
+            "وَأَمَّا الأَسْمَاءُ الخَمْسَةُ فَتُرْفَعُ بِالوَاوِ، وَتُنْصَبُ بِالأَلِفِ وَتُخْفَضُ بِاليَاءِ",
+            "وَأَمَّا الأَفْعَالُ الخَمْسَةُ فَتُرْفَعُ بالنون وتُنصَبُ وَتُجْزَمُ بِحَذْفِهَا"
+        ],
+        "latin":[
+            "yang di i`rob ada 2 macam yaitu: 1. Jenis yang di i`rob dengan harokat, 2. Jenis yang di i`rob dengan huruf",
+            "Adapun yang di i`rob dengan harokat terdiri dari 4 macam : Isim Mufrod - Jamak Taksir - Jamak Muannats Salim - Fi`il Mudhari` yang akhirannya tidak bersambung dengan sesuatu pun",
+            "Seluruhnya di rofa`kan dengan dommah, di nashob kan dengan fathah, di khofdh kan dengan kasroh, dan di jazm kan dengan sukun",
+            "Kecuali dalam tiga hal yaitu: Jamak Muannats Salim di nashobkan dengan kasroh - Isim yang tidak bertanwin di khofad kan dengan fathah - Fi`il Mudhari` Mu`tal Akhir di jazm kan dengan membuang huruf akhirnya",
+            "Adapun yang di i`rob kan dengan huruf ada 4 macam sebagai: Tasniyah - Jamak Mudzakkar Salim - Asmaul Khamsah - Af`alul Khamsah",
+            "Adapun tasniyah rofa` dengan alif, nashob dan khofadh dengan yaa",
+            "dapun jamak mudzakar salim rofa` dengan wawu, nashob dan khofadh dengan yaa",
+            "Adapun asmaul khomsah (isim yang 5) rofa` dengan wawu, nashob dengan alif, dan khofadh dengan yaa",
+            "Adapun af`alul khomsah (fi`il yang 5) rofa` dengan nun dan jazm dengan menghilangkan huruf nun tersebut"
+        ]
+    },
+    {
+        "bab":5,
+        "judul":"بَابُ اﻷَفْعَالِ",
+        "nama":"bab af`al",
+        "bg":"#eab308",
+        "position":[],
+        "keterangan":"Fi'il terbagi menjadi 3 : 1 Fi'il Madhi, 2 Fi'il Mudhari', 3 Fi'il Amr",
+        "image":"/image/5.svg",
+        "img":"",
+        "arab":[
+            "الأَفْعَالُ ثَلَاثَةٌ : مَاضٍ، وَمُضَارِعٌ، وَأَمْرٌ؛ نَحْوُ : (ضَرَبَ)، وَ(يَضْرِبُ)، وَ(اضْرِبْ)",
+            "فَالمَاضِيْ: مَفْتُوْحُ الآخِرِ أَبَدًا",
+            "وَالأَمْرُ: مَجْزُوْمٌ أَبَدًا",
+            "وَالمُضَارِعُ: مَا كَانَ فِي أَوَّلِهِ إِحْدَى الزَّوَائِدِ الأَرْبَعِ؛ الَّتِي يَجْمَعُهَا قَوْلُكَ: (أَنَيْتُ)، وَهُوَ مَرْفُوْعٌ أَبَدًا حَتَّى يَدْخُلَ عَلَيْهِ نَاصِبٌ أَوْ جَازِمٌ",
+            "فَالنَّوَاصِبُ عَشَرَةٌ؛ وَهِيَ : (أَنْ)، وَ(لَنْ)، وَ(إِذَنْ)، وَ(كَيْ)، وَ(لَامُ كَيْ)، وَ(لَامُ الجُحُوْدِ)، وَ(حَتَّى)، وَ الجَوَابُ بـ(الفَاءِ)، و(الوَاوِ)، وَ(أَوْ)",
+            "وَالجَوَازِمُ ثَمَانِيَةَ عَشَرَ؛ وَهِيَ : (لَمْ)، وَ(لَمَّا)، وَ(أَلَمْ)، وَ(أَلَمَّا)، وَ(لَامُ الأَمْرِ وَالدُّعَاءِ)، وَ(لَا) فِي النَّهْيِ وَالدُّعَاءِ، وَ(إِنْ)، وَ(مَا)، (مَنْ), وَ(مَهْمَا)، وَ(إِذْمَا)، وَ(أَيْ)، وَ(مَتَى)، وَ(أَيْنَ)، وَ(أَيَّانَ)، وَ(أَنَّى)، وَ(حَيْثُمَا)، وَ(كَيْفَمَا)، وَ(إذَا) فِي الشِّعْرِ خَاصَّةً"
+        ],
+        "latin":[
+            "Fi`il terbagi menjadi 3 : 1 Fi`il Madhi, 2 Fi`il Mudhari`, 3 Fi`il Amr",
+            "maka fiil madhi di fathah kan selama nya",
+            "sedangkan Fi`il Amr di jazam kan selama nya",
+            "Fi`il Mudhari` adalah fi`il yang di awalnya terdapat salah satu dari empat huruf tambahan yang terkumpul dalam kata (أَنَيْتُ). Dan fi`il mudhari` selalu di rofa`kan sampai masuk kepadanya amil nashob atau amil jazm",
+            "yang menashobkan fi`il mudhari` ada 10 di antaranya: (أَوْ)- أَنْ - لَنْ - إِذَنْ - كَيْ - لَامُ كَيْ - لَامُ الجُحُوْدِ - حَتَّى - الجَوَابُ بـ(الفَاءِ) - الجَوَابُ بـ(الوَاوِ)",
+            "yang men-jazm-kan fi`il mudhari` yaitu:لَمْ - لَمَّا - أَلَمْ - أَلَمَّا - لَامُ الأََمْرِ وَالدُّعَاءِ - لَا فِي النَّهْيِ وَالدُّعَاءِ - إِنْ - مَا - مَنْ - مَهْمَا - إِذْمَا - أَيٌّ - مَتَى - أَيَّانَ - أَيْنَ -أَنَّى - حَيْثُمَا - كَيْفَمَا - إِذَا فِي الشِّعْرِ خَاصَةً"
+        ]
+    },
+    {
+        "bab":6,
+        "judul":"بَابُ مَرْفُوْعَاتِ الأَسْمَاءِ",
+        "nama":"marfuatil asama`",
+        "bg":"#22c55e",
+        "position":[],
+        "keterangan":"Isim-isim yang di rofa' kan ada 7",
+        "image":"/image/6.svg",
+        "img":"",
+        "arab":[
+            "المَرْفُوعَاتُ سَبْعَةٌ وَهِيَالفَاعِلُ، وَالمَفْعُولُ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ، وَالمُبْتَدَأُ، وَخَبَرُهُ, وَاسْمُ “كَانَ” وَأَخَوَاتِهَا، وَخَبَرُ “إِنَّ” وَأَخَوَاتِهَا، وَالتَّابِعُ لِلْمَرْفُوعِ، وَهُوَ أَرْبَعَةُ أَشْيَاءَ: النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيدُ، وَالبَدَلُ"
+        ],
+        "latin":[
+            "Isim-isim yang di rofa` kan ada 7, yaitu: Fa`il, naibul fa`il, Mubtada`, Khobar, sim كَانَ dan saudara-saudaranya, Khobar إِنَّ dan saudara-saudaranya, mengikut isim-isim yang di rifa`kan (na`at-athaf-taukid-badal)"
+        ]
+    },
+    {
+        "bab":7,
+        "judul":"بَابُ الفَاعِلِ",
+        "nama":"bab fa`il",
+        "bg":"#14b8a6",
+        "position":[3,4],
+        "keterangan":"Fail' , yaitu isim marfu' yang terletak setelah fi'il",
+        "image":"/image/7.svg",
+        "img":[
+            "/img/fail zohir.svg",
+            "/img/fail mudmar.svg"
+        ],
+        "arab":[
+            "الفَاعِلُ هُوَ الاسم المَرْفُوعُ المَذْكُورُ قَبْلَهُ فِعْلُهُ",
+            "وَهُوَ عَلَى قِسْمَيْنِ ظَاهِرٍ، وَمُضْمَرٍ",
+            "فَالظَّاهِرُ نَحْوُ قَوْلِكَ قَامَ زَيْدٌ، وَيَقُومُ زَيْدٌ، وَقَامَ الزَّيْدَانِ، وَيَقُومُ الزَّيْدَانِ، وَقَامَ الزَّيْدُونَ، وَيَقُومُ الزَّيْدُونَ، وَقَامَ الرِّجَالُ، وَيَقُومُ الرِّجَالُ، وَقَامَتْ هِنْدٌ، وَقَامَتِ الهِنْدُ، وَقَامَتِ الهِنْدَانِ، وَتَقُومُ الهِنْدَانِ، وَقَامَتِ الهِنْدَاتُ، وَتَقُومُ الهِنْدَاتُ، وَقَامَتِ الهُنُودُ، وَتَقُومُ الهُنُودُ، وَقَامَ أَخُوكَ، وَيَقُومُ أَخُوكَ، وَقَامَ غُلَامِي، وَيَقُومُ غُلَامِي، وَمَا أَشْبَهَ ذَلِكَ",
+            "وَالمُضْمَرُ اثْنَا عَشَرَ نَحْوَ قَوْلِكَ: ضَرَبْتُ، وَضَرَبْنَا، وَضَرَبْتَ، وَضَرَبْتِ، وَضَرَبْتُمَا، وَضَرَبْتُمْ، وَضَرَبْتُنَّ، وَضَرَبَ، وَضَرَبَتْ، وَضَرَبَا، وَضَرَبُوا، وضَرَبْنَ"
+        ],
+        "latin":[
+            "Fa`il, yaitu isim marfu` yang terletak setelah fi`il",
+            "Fa`il terbagi menjadi 2 macam yaitu isim zhahir dan isim dhamir",
+            "Adapun yang berbentuk isim zhahir: قَامَ زَيْدٌ، وَيَقُومُ زَيْدٌ، وَقَامَ الزَّيْدَانِ، وَيَقُومُ الزَّيْدَانِ، وَقَامَ الزَّيْدُونَ، وَيَقُومُ الزَّيْدُونَ، وَقَامَ الرِّجَالُ، وَيَقُومُ الرِّجَالُ، وَقَامَتْ هِنْدٌ، وَقَامَتِ الهِنْدُ، وَقَامَتِ الهِنْدَانِ، وَتَقُومُ الهِنْدَانِ، وَقَامَتِ الهِنْدَاتُ، وَتَقُومُ الهِنْدَاتُ، وَقَامَتِ الهُنُودُ، وَتَقُومُ الهُنُودُ، وَقَامَ أَخُوكَ، وَيَقُومُ أَخُوكَ، وَقَامَ غُلَامِي، وَيَقُومُ غُلَامِي",
+            "Sedangkan yang isim dhomir ada 12 contohnya: ضَرَبْتُ، وَضَرَبْنَا، وَضَرَبْتَ، وَضَرَبْتِ، وَضَرَبْتُمَا، وَضَرَبْتُمْ، وَضَرَبْتُنَّ، وَضَرَبَ، وَضَرَبَتْ، وَضَرَبَا، وَضَرَبُوا، وضَرَبْنَ"
+        ]
+    },
+    {
+        "bab":8,
+        "judul":"بَابُ المَفْعُوْلِ الَّذِي لَمْ يُسَمَّ فَاعِلُهُ",
+        "nama":"bab maf`ul allazi lam yusamma fa`iluhu",
+        "bg":"#0ea5e9",
+        "position":[4,5],
+        "keterangan":"Yaitu isim marfu' yang tidak disebutkan fa'il (pelaku) nya",
+        "image":"/image/8.svg",
+        "img":[
+            "/img/naibul zohir.svg",
+            "/img/naibul mudmar.svg"
+        ],
+        "arab":[
+            "وَهُوَ : الاِسْمُ المَرْفُوْعُ الَّذِي لَمْ يُذْكَرْ مَعَهُ فَاعِلُهُ",
+            "فَإِنْ كَانَ الفِعْلُ مَاضِيًا: ضُمَّ أَوَّلُهُ وَكُسِرَ مَا قَبْلَ آخِرِهِ، وَإِنْ كَانَ مُضَارِعًا: ضُمَّ أَوَّلُهُ وَفُتِحَ مَا قَبْلَ آخِرِهِ",
+            "وَهُوَ قِسْمَيْنِ : ظَاهِرٍ، وَمُضْمَرٍ",
+            "فَالظَّاهِرُ؛ نَحْوُ قَوْلِكَ: (ضُرِبَ زَيْدٌ)، وَ(يُضْرَبُ زَيْدٌ)، وَ (أُكْرِمَ عَمْرٌو)، وَ(يُكْرَمُ عَمْرٌو)",
+            "وَالمُضْمَرُ اثْنَا عَشَرَ؛ نَحْوُ قَوْلِكَ: (ضُرِبْتُ)، وَ(ضُرِبْنَا)، وَ(ضُرِبْتَ)، وَ(ضُرِبْتِ)، وَ(ضُرِبْتُمَا)، وَ(ضُرِبْتُمْ)، وَ(ضُرِبْتُنَّ)، وَ(ضُرِبَ)، وَ(ضُرِبَتْ)، وَ(ضُرِبَا)، وَ(ضُرِبُوْا)، وَ(ضُرِبْنَ)"
+        ],
+        "latin":[
+            "Yaitu isim yang di rofa`kan yang tidak disebutkan fa`il (pelaku) nya",
+            "Apabila fi`il nya berbentuk fi`il madhi di dhammah kan huruf awalnya, dan di kasroh kan huruf sebelum akhir. Akan tetapi, jika berbentuk fi`il mudhari` di dhammah kan huruf awalnya, dan di fathah kan huruf sebelum akhir",
+            "Dan dia terbagi menjadi 2 macam yaitu: isim zhohir dan isim dhomir",
+            "Adapun yang berbentuk isim zhahir seperti contohnya: (ضُرِبَ زَيْدٌ)، وَ(يُضْرَبُ زَيْدٌ)، وَ (أُكْرِمَ عَمْرٌو)، وَ(يُكْرَمُ عَمْرٌو)",
+            "Sedangkan yang berbentuk isim dhamir ada 12 contohnya: (ضُرِبْتُ)، وَ(ضُرِبْنَا)، وَ(ضُرِبْتَ)، وَ(ضُرِبْتِ)، وَ(ضُرِبْتُمَا)، وَ(ضُرِبْتُمْ)، وَ(ضُرِبْتُنَّ)، وَ(ضُرِبَ)، وَ(ضُرِبَتْ)، وَ(ضُرِبَا)، وَ(ضُرِبُوْا)، وَ(ضُرِبْنَ)"
+        ]
+    },
+    {
+        "bab":9,
+        "judul":"بَابُ المُبْتَدَأِ وَالخَبَرِ",
+        "nama":"bab mubtada` khobar",
+        "bg":"#6366f1",
+        "position":[2],
+        "keterangan":"Mubtada' adalah : Isim Marfu' yang terbebas dari 'amil-'amil lafzhiyah",
+        "image":"/image/9.svg",
+        "img":"",
+        "arab":[
+            "المُبْتَدَأُ : هُوَ الاِسْمُ المَرْفُوْعُ العَارِي عَنِ العَوَامِلِ اللَّفْظِيَّةِ",
+            "وَالخَبَرُ : هُوَ الاِسْمُ المَرْفُوْعُ المُسْنَدُ إِلَيْهِ، نَحْوُ قَوْلِكَ: (زَيْدٌ قَائِمٌ)، وَ(الزَّيْدَانِ قَائِمَانِ)، وَ(الزَّيْدُوْنَ قَائِمُوْنَ)",
+            "وَالمُبْتَدَأُ قِسْمَانِ : ظَاهِرٌ وَمُضْمَرٌ. فَالظَّاهِرُ مَا تَقَدَّمَ ذِكْرُهُ",
+            "وَالمُضْمَرُ اثْنَا عَشَرَ؛ وَهِيَ : (أَنَا)، وَ(نَحْنُ)، وَ(أَنْتَ)، وَ(أَنْتِ)، وَ(أَنْتُمَا)، وَ(أَنْتُمْ)، وَ(أَنْتُنَّ)، وَ(هُوَ)، وَ(هِيَ)، وَ(هُمَا)، وَ(هُمْ)، وَ(هُنَّ). نَحْوُ قَوْلِكَ: (أَنَا قَائِمٌ) وَ(نَحْنُ قَائِمُوْنَ) وَمَا أَشْبَهَ ذَلِكَ",
+            "وَالخَبَرُ قِسْمَانِ :مُفْرَدٌ، وَ غَيْرُ مُفْرَدٍ",
+            "فَالمُفْرَدُ؛ نَحْوُ قَوْلِكَ : (زَيْدٌ قَائِمٌ)",
+            "وَغَيْرُ المُفْرَدِ أَرْبَعَةُ أَشْيَاءَ : الجَارُّ وَالمَجْرُوْرُ، وَالظَّرْفُ، وَالفِعْلُ مَعَ فَاعِلِهِ، وَالمُبْتَدَأُ مَعَ خَبَرِهِ. نَحْوُ قَوْلِكَ : (زَيْدٌ فِي الدَّارِ)، وَ(زَيْدٌ عِنْدَكَ)، وَ(زَيْدٌ قَامَ أَبُوْهُ)، وَ(زَيْدٌ جَارِيَتُهُ ذَاهِبَةٌ)"
+        ],
+        "latin":[
+            "Mubtada` adalah Isim yang di rofa`kan yang terbebas dari amil-amil lafzhiyah",
+            "Sedangkan khobar adalah isim yang di rofa`kan yang disandarkan kepada mubtada` seperti contoh: (زَيْدٌ قَائِمٌ)، وَ(الزَّيْدَانِ قَائِمَانِ)، وَ(الزَّيْدُوْنَ قَائِمُوْنَ)",
+            "mubtada` terbagi menjadi 2 macam, yaitu isim zhohir dan isim dhamir. Adapun isim zhahir contohnya seperti yang telah disebutkan di atas",
+            "Sedangkan isim dhamir ada 12, yaitu: (أَنَا)، وَ(نَحْنُ)، وَ(أَنْتَ)، وَ(أَنْتِ)، وَ(أَنْتُمَا)، وَ(أَنْتُمْ)، وَ(أَنْتُنَّ)، وَ(هُوَ)، وَ(هِيَ)، وَ(هُمَا)، وَ(هُمْ)، وَ(هُنَّ)",
+            "khobar terbagi menjadi 2 mufrod, dan goiru mufrod",
+            "mufrod contohnya : زَيْدٌ قَائِمٌ (zaid berdiri)",
+            "goiru mufrod ada 4 macam : jar majrur, zorof, fi`il bersama fa`ilnya, mubtada` bersama khobar-nya. Contoh : (زَيْدٌ فِي الدَّارِ)، وَ(زَيْدٌ عِنْدَكَ)، وَ(زَيْدٌ قَامَ أَبُوْهُ)، وَ(زَيْدٌ جَارِيَتُهُ ذَاهِبَةٌ)"
+        ]
+    },
+    {
+        "bab":10,
+        "judul":"بَابُ العَوَامِلِ الدَّاخِلَةِ عَلَى المُبْتَدَأِ وَالخَبَرِ",
+        "nama":"bab awamilid dakhilati alal mubtadak wa khobar",
+        "bg":"#a855f7",
+        "position":[3,6,10],
+        "keterangan":"Amil-amil yang masuk pada mubtada' dan khabar ada 3 jenis",
+        "image":"/image/10.svg",
+        "img":[
+            "/img/kana.svg",
+            "/img/inna.svg",
+            "/img/zonna.svg"
+        ],
+        "arab":[
+            "وَهِيَ ثَلَاثَةُ أَشْيَاءَ: كَانَ وَأَخَوَاتُهَا، وَإِنَّ وَأَخَوَاتُهَا، وَظَنَنْتُ وَأَخَوَاتُهَا",
+            "فَأَمَّا كَانَ وَأَخَوَاتُهَا: فَإِنَّهَا تَرْفَعُ الْاِسْمَ، وَتَنْصِبُ الخَبَرَ",
+            "وَهِيَ: كاَنَ، وَأَمْسَى، وَأَصْبَحَ، وَأَضْحَى، وَظَلَّ ، وَبَاتَ، وَصَارَ، وَلَيْسَ، وَمَا زَالَ، وَمَا اِنْفَكَّ، وَمَا فَتِيءَ، وَمَا بَرِحَ، وَمَا دَامَ، وَمَا تَصَرَّفَ مِنْهَا، نَحْو:ُ كَانَ وَيَكُوْنُ وَكُنْ،وَأَصْبَحَ وَيُصْبِحُ وَأَصْبِحْ، تَقُوْلُ: كَانَ زَيْدٌ قَائِمًاً، وَلَيْسَ عَمْرٌو شَاخِصًاً، وَمَا أَشْبَهَ ذَلِكَ",
+            "وَأَمَّا إِنَّ وَأَخَوَاتُهَا: فَإِنَّهَا تَنْصِبُ الْاِسْمَ وَتَرْفَعُ الخَبَرَ",
+            "وَهِيَ (إِنَّ)، وَ(أَنَّ)، وَ(لَكِنَّ)، وَ(كَأَنَّ)، وَ(لَيْتَ)، وَ(لَعَلَّ)",
+            "تَقُوْلُ : (إِنَّ زَيْدًا قَائِمٌ)، وَ(لَيْتَ عَمْرًا شَاخِصٌ)",
+            "وَمَعْنَى (إِنَّ) وَ(أَنَّ) لِلتَّوْكِيْدِ، وَ(لَكِنَّ) لِلاِسْتِدْرَاكِ، وَ(كَأَنَّ) لِلتَّشْبِيْهِ، وَ(لَيْتَ) لِلتَّمَنِّي، وَ(لَعَلَّ) لِلتَّرَجِّي وَالتّوَقُّعِ",
+            "وَأَمَّا ظَنَنْتُ وَأَخَوَاتُهَا: فَإِنَّهَا تَنْصِبُ المُبْتَدَأَ وَالخَبَرَ عَلَى أَنَّهُمَا مَفْعُوْلَانِ لَهَا",
+            "وَهِيَ : (ظَنَنْتُ)، وَ(حَسِبْتُ)، وَ(خِلْتُ)، وَ(زَعَمْتُ)، وَ(رَأَيْتُ)، وَ(عَلِمْتُ)، وَ(وَجَدْتُ)، وَ(اتَّخَذْتُ)، وَ(جَعَلْتُ) وَ(سَمِعْتُ)",
+            "تَقُوْلُ : (ظَنَنْتُ زَيْداً قَائِمًا)، وَ(رَأَيْتُ عَمْراً شَاخِصًا)، وَمَا أَشْبَهَ ذَلِكَ"
+        ],
+        "latin":[
+            "Amil-amil yang masuk kepada mubtada` dan khabar ada 3 jenis yaitu:1 (كَانَ) dan saudara-saudaranya, 2 (إِنَّ) dan saudara-saudaranya, 3 (ظَنَنْتُ) dan saudara-saudaranya",
+            "Adapun (كَانَ) dan saudara-saudaranya berfungsi merafa`kan isim dan menasab kan khabar",
+            "saudara-saudaranya kana yaitu: كَانَ - أَمْسَى - أَصْبَحَ - أَضْحَى - ظَلَّ - بَاتَ - صَارَ - لَيْسَ - مَا زَالَ - مَا انْفَكَّ - مَا فَتِئَ - مَا بَرِحَ - مَا دَامَ - وَمَا تَصَرَّفَ مِنْهَا kamu katakan : كَانَ زَيْدٌ قَائِمًاً، وَلَيْسَ عَمْرٌو شَاخِصً dan umpama yang lain nya",
+            "Sedangkan (إِنَّ) dan saudara-saudaranya berfungsi me nasab kan isim dan me rafa` kan khabar",
+            "inna dan saudara-saudara nya : إِنَّ - أَنَّ - لَكِنَّ - كَأَنَّ - لَيْتَ - لَعَلَّ",
+            "kamu katakan : (إِنَّ زَيْدًا قَائِمٌ : Sesungguhnya Zaid telah berdiri), (لَيْتَ عَمْرًا شَاخِصٌ : Sekiranya Amr pergi)",
+            "(إِنَّ) dan (أَنَّ) adalah untuk memperkuat ucapan, (لَكِنَّ) untuk memutarbalikan fakta, (كَأَنَّ) untuk menyatakan adanya persamaan, (لَيْتَ) menyatakan angan-angan, (لَعَلَّ) menyatakan pengharapan",
+            "adapun (ظَنَنْتُ) dan saudara-saudaranya, berfungsi me nashb kan mubtada` dan khabar sekaligus keduanya menjadi maf`ul baginya",
+            "zonna dan saudara-saudaranya: ظَنَنْتُ - حَسِبْتُ - خِلْتُ - زَعَمْتُ - رَأَيْتُ - عَلِمْتُ - وَجَدْتُ - اتَّخَذْتُ - جَعَلْتُ - سَمِعْتُ",
+            "kamu katakan: ظَنَنْتُ زَيْداً قَائِمًا : Aku mengira Zaid berdiri, رَأَيْتُ عَمْراً شَاخِصًا : Aku melihat Amr pergi, dan semisal nya"
+        ]
+    },
+    {
+        "bab":11,
+        "judul":"بَابُ النَّعْتِ",
+        "nama":"bab na`at",
+        "bg":"#ec4899",
+        "position":[],
+        "keterangan":"na'at yaitu isim yang mengikuti man'ut (isim yang disifati)",
+        "image":"/image/23.svg",
+        "img":"",
+        "arab":[
+            "النَّعْتُ تَابِعٌ لِلْمَنْعُوتِ فِي رَفْعِهِ وَنَصْبِهِ وَخَفْضِهِ، وَتَعْرِيفِهِ وَتَنْكِيرِهِ",
+            "تَقُولُ: (قَامَ زَيْدٌ اَلْعَاقِلُ)، وَ(رَأَيْتُ زَيْدًا العَاقِلَ)، وَ(مَرَرْتُ بِزَيْدٍ اَلْعَاقِلِ)",
+            "وَالمَعْرِفَةُ خَمْسَةُ أَشْيَاءَ",
+            "اَلِاسْمُ اَلْمُضْمَرُ؛ نَحْوُ: (أَنَا)، وَ(أَنْتَ)",
+            "وَالِاسْمُ اَلْعَلَمُ؛ نَحْوُ: (زَيْدٍ)، وَ(مَكَّةَ)",
+            "وَالِاسْمُ اَلْمُبْهَمُ؛ نَحْوُ: (هَذَا)، وَ(هَذِهِ)، وَ(هَؤُلَاءِ)",
+            "وَالِاسْمُ اَلَّذِي فِيهِ اَلْأَلِفُ وَاللَّامُ؛ نَحْوُ: (الرَّجُلِ)، وَ(الغُلَامِ)",
+            "وَمَا أُضِيفَ إِلَى وَاحِدٍ مِنْ هَذِهِ اَلْأَرْبَعَةِ",
+            "وَالنَّكِرَةُ: كُلُّ اسْمٍ شَائِعٍ فِي جِنْسِهِ، لَا يَخْتَصُّ بِهِ وَاحِدٌ دُونَ آخَرَ",
+            "وَتَقْرِيبُهُ كُلُّ مَا صَلَحَ دُخُولُ الأَلِفِ وَاللَّامِ عَلَيْهِ، نَحْوُ: (الرَّجُلِ)، و(الفَرَسِ)"
+        ],
+        "latin":[
+            "Na`at adalah isim yang mengikuti man`ut (isim yang disifati) pada keadaan rafa`, nashab, khafadh, ma`rifah, dan nakirah-nya",
+            "kamu katakan: قَامَ زَيْدٌ اَلْعَاقِلُ(Zaid yang cerdas itu telah berdiri), رَأَيْتُ زَيْدًا اَلْعَاقِلَ(Aku melihat Zaid yang cerdas itu), مَرَرْتُ بِزَيْدٍ اَلْعَاقِلِ(Aku berpapasan dengan Zaid yang cerdas itu)",
+            "ma`rifah terbagi menjadi 5 jenis, yaitu",
+            "isim dhamir (kata ganti); contohnya: أَنَا وَأَنْتَ",
+            "Isim alam (nama); contohnya: زَيْدٍ وَمَكَّةَ",
+            "Isim mubham (kata tunjuk); contohnya: هَذَا, وَهَذِهِ, وَهَؤُلَاءِ",
+            "Isim yang di dalamnya terdapat alif-lam (ال); contohnya : الرَّجُلُ وَالْغُلَامُ",
+            "Isim yang disandarkan kepada salah satu dari ke empat jenis di atas",
+            "Sedangkan nakirah adalah setiap isim yang bersifat umum pada jenisnya, tidak tertentu pada sesuatupun",
+            "untuk mendektakan paham, nakirah adalah setiap isim yang dapat menerima alif-lam contoh nya: Laki-laki itu : (الرَّجُلُ), Kuda itu : (الفَرَسُ)"
+        ]
+    },
+    {
+        "bab":12,
+        "judul":"بَابُ العَطْفِ",
+        "nama":"bab athof",
+        "bg":"#6b7280",
+        "position":[],
+        "keterangan":"Huruf 'athaf ada 10",
+        "image":"/image/24.svg",
+        "img":"",
+        "arab":[
+            "وَحُرُوفُ العَطْفِ عَشَرَةٌ؛ وَهِيَ : (الوَاوُ)، وَ(الفَاءُ)، وَ(ثُمَّ)، وَ(أَوْ)، وَ(أَمْ)، وَ(إِمَّا)، وَ(بَلْ)، وَ(لَا)، وَ(لَكِنْ)، وَ(حَتَّى) فِي بَعْضِ المَوَاضِعِ",
+            "فَإِنْ عَطَفْتَ عَلَى مَرْفُوعٍ رَفَعْتَ أَوْ عَلَى مَنْصُوبٍ نَصَبْتَ، أَوْ عَلَى مَخْفُوضٍ خَفَضْتَ، أَوْ عَلَى مَجْزُومٍ جَزَمْتَ",
+            "تَقُولُ: (قَامَ زَيْدٌ وَعَمْرٌو)، وَ(رَأَيْتُ زَيْدًا وَعَمْرًا)، وَ(مَرَرْتُ بِزَيْدٍ وَعَمْرٍو)"
+        ],
+        "latin":[
+            "Huruf athaf ada 10 yaitu: (الوَاوُ)-(الفَاءُ)-(ثُمَّ)-(أَوْ)-(أَمْ)-(إِمَّا)-(بَلْ)-(لَا)-(لَكِنْ)-(حَتَّى)",
+            "jika kamu meng`athaf kan isim ke isim yang dibaca rafa` maka rafa` kanlah, atau ke isim yang di baca nashab maka nashabkan lah, atau ke isim yang dibaca khafadh maka khafadhkan lah, atau ke isim yang dibaca jazm maka jazmkan lah",
+            "kamu katakan: قَامَ زَيْدٌ وَعَمْرٌو(Zaid dan Amar berdiri), رَأَيْتُ زَيْدًا وَعَمْرًا(Aku melihat Zaid dan Amar), مَرَرْتُ بِزَيْدٍ وَعَمْرٍو(Aku berpapasan dengan Zaid dan Amar)"
+        ]
+    },
+    {
+        "bab":13,
+        "judul":"بَابُ التَّوْكِيْدِ",
+        "nama":"bab taukit",
+        "bg":"#737373",
+        "position":[],
+        "keterangan":"Taukid itu isim yang mengikuti isim yang dikuatkan",
+        "image":"/image/25.svg",
+        "img":"",
+        "arab":[
+            "التَّوْكِيدُ تَابِعٌ لِلْمُؤَكَّدِ فِي رَفْعِهِ وَنَصْبِهِ وَخَفْضِهِ وَتَعْرِيفِهِ",
+            "وَيَكُونُ بِأَلْفَاظٍ مَعْلُومَةٍ، وَهِيَ (النَّفْسُ)، وَ(الْعَيْنُ)، وَ(كُلُّ)، وَ(أَجْمَعُ)",
+            "وَتَوَابِعُ أَجْمَعَ - وَهِيَ: (أَكْتَعُ)، وَ(أَبْتَعُ)، وَ(أَبْصَعُ). تَقُولُ: (قَامَ زَيْدٌ نَفْسُهُ)، وَ(رَأَيْتُ القَوْمَ كُلَّهُمْ)، وَ(مَرَرْتُ بِالقَوْمِ أَجْمَعِينَ)"
+        ],
+        "latin":[
+            "Taukid itu isim yang mengikuti isim yang dikuatkan ketika rafa`, nashab, khafadh, dan ma`rifah-nya",
+            "Taukid terdiri dari lafazh-lafazh yang telah diketahui, yaitu: (النَّفْسُ)-(الْعَيْنُ)-(كُلُّ)-(أَجْمَعُ)",
+            "Dan yang mengikuti kalimat (أَجْمَعُ) yaitu: أَكْتَعُ، وَأَبْتَعُ، وَأَبْصَعُ contoh nya: قَامَ زَيْدٌ نَفْسُهُ(Zaid sendiri yang berdiri), رَأَيْتُ اَلْقَوْمَ كُلَّهُمْ(Aku melihat kaum itu semuanya), مَرَرْتُ بِالْقَوْمِ أَجْمَعِينَ(Aku berpapasan dengan kaum itu seluruhnya)"
+        ]
+    },
+    {
+        "bab":14,
+        "judul":"بَابُ البَدَلِ",
+        "nama":"bab badal",
+        "bg":"#ef4444",
+        "position":[],
+        "keterangan":"Jika isim diganti dengan isim yang lainnya, atau fi'il dengan fi'il yang lainnya",
+        "image":"/image/26.svg",
+        "img":"",
+        "arab":[
+            "إِذَا أُبْدِلَ اِسْمٌ مِنِ اسْمٍ أَوْ فِعْلٌ مِنْ فِعْلٍ تَبِعَهُ فِي جَمِيعِ إِعْرَابِهِ",
+            "وَهُوَ عَلَى أَرْبَعَةِ أَقْسَامٍ: بَدَلُ اَلشَّيْءِ مِنَ الشَّيْءِ، وَبَدَلُ البَعْضِ مِنَ الكُلِّ، وَبَدَلُ الِاشْتِمَالِ، وَبَدَلُ الغَلَطِ",
+            "نَحْوَ قَوْلِكَ: (قَامَ زَيْدٌ أَخُوكَ)، وَ(أَكَلْتُ اَلرَّغِيفَ ثُلُثَهُ)، وَ(نَفَعَنِي زَيْدٌ عِلْمُهُ)، وَ(رَأَيْتُ زَيْدًا الفَرَسَ)، أَرَدْتَ أَنْ تَقُولَ: رَأَيْتُ الفَرَسَ؛ فَغَلِطْتَ، فَأَبْدَلْتَ زَيْدًا مِنْهُ"
+        ],
+        "latin":[
+            "Jika isim diganti dengan isim yang lainnya, atau fi`il dengan fi`il yang lainnya, maka ia mengikuti isim yang diganti dalam semua i`rob-nya",
+            "Badal dibagi menjadi 4 bagian : بَدَلُ اَلشَّيْءِ مِنْ اَلشَّيْء - بَدَلُ البَعْضِ مِنْ الكُلِّ - بَدَلُ الاِشْتِمَالِ - بَدَلُ الغَلَطِ",
+            "contoh perkataan mu: قَامَ زَيْدٌ أَخُوْكَ (telah bangun Zaid, saudaramu), أَكَلْتُ الرَّغِيْفَ ثُلُثَهُ (aku makan roti sepertiganya), نَفَعَنِيْ زَيْدٌ عِلْمُهُ (bermanfaat untukku zaid ilmunya), رَأَيْتُ زَيْدًا الفَرَسَ (aku melihat zaid eh.. maksudku kuda)"
+        ]
+    },
+    {
+        "bab":15,
+        "judul":"بَابُ مَنْصُوْبَاتِ الأَسْمَاءِ",
+        "nama":"bab mansubatil asma`",
+        "bg":"#f59e0b",
+        "position":[],
+        "keterangan":"Isim-isim yang di-manshub kan ada 14",
+        "image":"/image/11.svg",
+        "img":"",
+        "arab":[
+            "المَنْصُوْبَاتُ أَرْبَعَةَ عَشَرَ؛ وَهِيَ: المَفْعُوْلُ بِهِ، وَالمَصْدَرُ، وَظَرْفُ الزَّمَانِ، وَظَرْفُ المَكَانِ، وَالحَالُ، وَالتَّمْيِيْزُ، وَالمُسْتَثْنَى، وَاسْمُ لَا، وَالمُنَادَى، وَالمَفْعُوْلُ مِنْ أَجْلِهِ، وَالمَفْعُوْلُ مَعَهُ، وَخَبَرُ (كَانَ) وَأَخَوَاتِهَا، وَاسْمُ (إِنَّ) وَأَخَوَاتِهَا، وَالتَّابِعُ لِلْمَنْصُوْبِ وَهُوَ أَرْبَعَةُ أَشْيَاءَ : النَّعْتُ، وَالعَطْفُ، وَالتَّوْكِيْدُ، وَالبَدَلُ"
+        ],
+        "latin":[
+            "Isim-isim yang di nashabkan ada 14, yaitu: المَفْعُوْلُ بِهِ, المَصْدَرُ, ظرف الزمان, ظَرْفُ المَكَانِ, الحَالُ, التَّمْيِيْزُ, المُسْتَثْنَى, اسْمُ لَا, المُنَادَى, المَفْعُوْلُ مِنْ أَجْلِهِ, المَفْعُوْلُ مَعََهُ, خَبَرُ كَانَ وَأَخَوَاتُهَا, اسْمُ إِنَّ وَأَخَوَاتُهَا, التَّابِعُ لِلْمَنْصُوْبِ وَهُوَ أَرْبَعَةُ أَشْيَاءَ : النَّعْتُ وَالعَطْفُ وَالتَّوْكِيْدُ وَالبَدَلُ"
+        ]
+    },
+    {
+        "bab":16,
+        "judul":"بَابُ المَفْعُوْلِ بِهِ",
+        "nama":"bab mafulunbih",
+        "bg":"#84cc16",
+        "position":[1],
+        "keterangan":"Maf'ul bih yaitu isim manshub yang menjadi objek dari pekerjaan fi'il",
+        "image":"/image/12.svg",
+        "img":[
+            "/img/mafulunbih.svg"
+        ],
+        "arab":[
+            "وَهُوَ الِاسْمُ المَنْصُوبُ الَّذِي يَقَعُ عَلَيْهِ الفِعْلُ، نَحْوُ, قَوْلِكَ : (ضَرَبْتُ زَيْدًا)، وَ(رَكِبْتُ اَلْفَرَسَ)",
+            "وَهُوَ قِسْمَانِ: ظَاهِرٌ، وَمُضْمَرٌ",
+            "فَالظَّاهِرُ؛ مَا تَقَدَّمَ ذِكْرُهُ. وَالْمُضْمَرُ قِسْمَانِ مُتَّصِلٌ، وَمُنْفَصِلٌ",
+            "فَالْمُتَّصِلُ اِثْنَا عَشَرَ؛ وَهِيَ: (ضَرَبَنِي)، وَ(ضَرَبَنَا)، وَ(ضَرَبَكَ)، وَ(ضَرَبَكِ)، وَ(ضَرَبَكُمَا)، وَ(ضَرَبَكُمْ)، وَ(ضَرَبَكُنَّ)، وَ(ضَرَبَهُ)، وَ(ضَرَبَهَا)، وَ(ضَرَبَهُمَا)، وَ(ضَرَبَهُمْ)، وَ(ضَرَبَهُنَّ)",
+            "وَالمُنْفَصِلُ اِثْنَا عَشَرَ؛ وَهِيَ: إِيَّايَ، وَإِيَّانَا، وَإِيَّاكَ، وَإِيَّاكِ، وَإِيَّاكُمَا، وَإِيَّاكُمْ، وَإِيَّاكُنَّ، وَإِيَّاهُ، وَإِيَّاهَا، وَإِيَّاهُمَا، وَإِيَّاهُمْ، وَإِيَّاهُنَّ"
+        ],
+        "latin":[
+            "Maf`ul bih yaitu isim yang di nasabkan yang menjadi objek dari pekerjaan fi`il contoh nya: ضَرَبْتُ زَيْدًا(Aku memukul Zaid), رَكِبْتُ الفَرَسَ(Aku menunggang kuda)",
+            "Maf`ul bih ada 2 macam: zohir dan dhomir",
+            "Adapun yang zohir sudah berlalu penyebutannya, Sedangkan dhamir ada 2 macam: muttashil dan munfashil",
+            "dhomir muttasil itu ada 12 : (ضَرَبَنِي)، وَ(ضَرَبَنَا)، وَ(ضَرَبَكَ)، وَ(ضَرَبَكِ)، وَ(ضَرَبَكُمَا)، وَ(ضَرَبَكُمْ)، وَ(ضَرَبَكُنَّ)، وَ(ضَرَبَهُ)، وَ(ضَرَبَهَا)، وَ(ضَرَبَهُمَا)، وَ(ضَرَبَهُمْ)، وَ(ضَرَبَهُنَّ)",
+            "dhomir munfashil ada 12, yaitu: إِيَّايَ، وَإِيَّانَا، وَإِيَّاكَ، وَإِيَّاكِ، وَإِيَّاكُمَا، وَإِيَّاكُمْ، وَإِيَّاكُنَّ، وَإِيَّاهُ، وَإِيَّاهَا، وَإِيَّاهُمَا، وَإِيَّاهُمْ، وَإِيَّاهُنَّ"
+        ]
+    },
+    {
+        "bab":17,
+        "judul":"بَابُ المَصْدَرِ",
+        "nama":"bab masdar",
+        "bg":"#10b981",
+        "position":[3,4],
+        "keterangan":"Mashdar yaitu isim manshub yang menempati posisi ketiga dalam tashrif fiil",
+        "image":"/image/13.svg",
+        "img":[
+            "/img/madar lafzi.svg",
+            "/img/madar maknawi.svg"
+        ],
+        "arab":[
+            "المَصْدَرُ: هُوَ الِاسْمُ المَنْصُوبُ الَّذِي يَجِيءُ ثَالِثًا فِي تَصْرِيفِ الْفِعْلِ. نَحْوُ:(ضَرَبَ - يَضْرِبُ - ضَرْبًا)",
+            "وَهُوَ قِسْمَانِ: لَفْظِيٌّ، وَمَعْنَوِيٌّ",
+            "فَإِنْ وَافَقَ لَفْظُهُ لَفْظَ فِعْلِهِ فَهُوَ لَفْظِيٌّ، نَحْوُ (قَتَلْتُهُ قَتْلًا)",
+            "وَإِنْ وَافَقَ مَعْنَى فِعْلِهِ دُونَ لَفْظِهِ فَهُوَ مَعْنَوِيٌّ، نَحْوُ: (جَلَسْتُ قُعُودًا)، وَ(قِمْتُ وُقُوفًا)، وَمَا أَشْبَهَ ذَلِكَ"
+        ],
+        "latin":[
+            "Mashdar adalah isim yang di nashabkan yang menempati posisi ketiga dalam tashrif fi`il Contoh: ضَرَبَ (telah memukul), يَضْرِبُ (sedang memukul) ضَرْبًا (pukulan)",
+            "Mashdar dibagi menjadi 2 : lafzhi dan maknawi",
+            "Jika lafazhnya sama dengan lafazh fi`il-nya maka disebut dengan mashdar lafzhi Contoh : قَتَلْتُهُ قَتْلًا (Aku membunuhnya dengan pembunuhan yang sesungguhnya)",
+            "Dan jika yang sesuai makna fi`il-nya saja bukan lafazhnya maka disebut dengan mashdar maknawin contoh nya: جَلَسْتُ قُعُودًا(Aku duduk dengan sebenar-benarnya), قِمْتُ وُقُوفًا(Aku berdiri dengan sebenar-benarnya)"
+        ]
+    },
+    {
+        "bab":18,
+        "judul":"بَابُ ظَرْفِ الزَّمَانِ وَظَرْفِ المَكَانِ",
+        "nama":"bab zorof zaman wa zorof makan",
+        "bg":"#06b6d4",
+        "keterangan":"zaman keterangan waktu, makan keterangan tempat",
+        "position":[],
+        "image":"/image/14.svg",
+        "img":"",
+        "arab":[
+            "ظَرْفُ الزَّمَانِ هُوَ : اِسْمُ الزَّمَانِ المَنْصُوْبُ بِتَقْدِيْرِ (فِي)",
+            "نَحْوُ : (اليَوْمَ)، وَ(اللَّيْلَةَ)، وَ(غُدْوَةً)، وَ(بُكْرَةً)، وَ(سَحَرًا)، وَ(غَدًا)، وَ(عَتَمَةً)، وَ(صَبَاحًا)، وَ(مَسَاءً)، وَ(أَبَدًا)، وَ(أَمَدًا)، وَ(حِينًا)، وَمَا أَشْبَهَ ذَلِكَ",
+            "وَظَرْفُ المَكَانِ: هُوَ اِسْمُ المَكَانِ المَنْصُوبُ بِتَقْدِيرِ (فِي)",
+            "نَحْوُ: (أَمَامَ)، وَ(خَلْفَ)، وَ(قُدَّامَ)، وَ(وَرَاءَ)، وَ(فَوْقَ)، وَ(تَحْتَ)، وَ(عِنْدَ)، وَ(مَعَ)، وَ(إِزَاءَ)، وَ(حِذَاءَ)، وَ(تِلْقَاءَ)، وَ(ثَمَّ)، وَ(هُنَا)، وَمَا أَشْبَهَ ذَلِكَ"
+        ],
+        "latin":[
+            "Zhorf zaman yaitu keterangan waktu yang dibaca nashab dengan perkiraan makna (فِي)",
+            "contoh nya: (اليَوْمَ)، وَ(اللَّيْلَةَ)، وَ(غُدْوَةً)، وَ(بُكْرَةً)، وَ(سَحَرًا)، وَ(غَدًا)، وَ(عَتَمَةً)، وَ(صَبَاحًا)، وَ(مَسَاءً)، وَ(أَبَدًا)، وَ(أَمَدًا)، وَ(حِينًا) dan apa yang menyerupai demukian",
+            "Zharaf makan yaitu keterangan tempat yang dibaca manshub dengan perkiraan makna (فِي)",
+            "contoh nya: (أَمَامَ)، وَ(خَلْفَ)، وَ(قُدَّامَ)، وَ(وَرَاءَ)، وَ(فَوْقَ)، وَ(تَحْتَ)، وَ(عِنْدَ)، وَ(مَعَ)، وَ(إِزَاءَ)، وَ(حِذَاءَ)، وَ(تِلْقَاءَ)، وَ(ثَمَّ)، وَ(هُنَا) dan apa seumpama demikian"
+        ]
+    },
+    {
+        "bab":19,
+        "judul":"بَابُ الحَالِ",
+        "nama":"bab hal",
+        "bg":"#3b82f6",
+        "position":[2],
+        "keterangan":"Hal yaitu isim yang di-nashabkan yang menjelaskan suatu keadaan yang masih samar",
+        "image":"/image/15.svg",
+        "img":[
+            "/img/haal.svg"
+        ],
+        "arab":[
+            "الحَالُ : هُوَ الِاسْمُ المَنْصُوبُ، المُفَسِّرُ لِمَا انْبَهَمَ مِنَ الهَيْئَاتِ",
+            "نَحْوَ قَوْلِكَ: (جَاءَ زَيْدٌ رَاكِبًا)، وَ(رَكِبْتُ الفَرَسَ مُسْرَجًا)، وَ(لَقِيتُ عَبْدَ اللَّهِ رَاكِبًا)، وَمَا أَشْبَهَ ذَلِكَ",
+            "وَلَا يَكُونَ الحَالُ إِلَّا نَكِرَةً، وَلَا يَكُونُ إِلَّا بَعْدَ تَمَامِ الكَلَامِ، وَلَا يَكُونُ صَاحِبُهَا إِلَّا مَعْرِفَةً"
+        ],
+        "latin":[
+            "Hal yaitu isim yang di nasabkan yang menjelaskan suatu keadaan yang masih samar",
+            "contoh perkataan mu: (جَاءَ زَيْدٌ رَاكِبًا)، وَ(رَكِبْتُ الفَرَسَ مُسْرَجًا)، وَ(لَقِيتُ عَبْدَ اللَّهِ رَاكِبًا) dan seumpama demikian",
+            "Hal tidak terbentuk kecuali dari isim nakirah, tidak terwujud kecuali setelah sempurnanya kalimat, dan tidak terwujud kecuali setelah shahibul hal ma`rifah"
+        ]
+    },
+    {
+        "bab":20,
+        "judul":"بَابُ التَّمْيِيْزِ",
+        "nama":"bab tamyiz",
+        "bg":"#8b5cf6",
+        "position":[2],
+        "keterangan":"Tamyiz adalah isim manshub yang menjelaskan suatu dzat yang masih samar",
+        "image":"/image/16.svg",
+        "img":[
+            "/img/tamyiz.svg"
+        ],
+        "arab":[
+            "التَّمْيِيْزُ: هُوَ الِاسْمُ المَنْصُوبُ المُفَسِّرُ لِمَا انْبَهَمَ مِنْ الذَّوَاتِ",
+            "نَحْوُ قَوْلِكَ: (تَصَبَّبَ زَيْدٌ عَرَقًا)، وَ(تَفَقَّأَ بَكْرٌ شَحْمًا)، وَ(طَابَ مُحَمَّدٌ نَفْسًا)، وَ(اشْتَرَيْتُ عِشْرِينَ غُلَامًا)، وَ(مَلَكْتُ تِسْعِينَ نَعْجَةً)، وَ(زَيْدٌ أَكْرَمُ مِنْكَ أَبًا)، وَ(أَجْمَلُ مِنْكَ وَجْهًا)",
+            "وَلَا يَكُونُ إِلَّا نَكِرَةً، وَلَا يَكُونُ إِلَّا بَعْدَ تَمَامِ الكَلَامِ"
+        ],
+        "latin":[
+            "Tamyiz adalah isim yang di nashabkan yang menjelaskan suatu dzat yang masih samar",
+            "contoh perkataan mu : (تَصَبَّبَ زَيْدٌ عَرَقًا)، وَ(تَفَقَّأَ بَكْرٌ شَحْمًا)، وَ(طَابَ مُحَمَّدٌ نَفْسًا)، وَ(اشْتَرَيْتُ عِشْرِينَ غُلَامًا)، وَ(مَلَكْتُ تِسْعِينَ نَعْجَةً)، وَ(زَيْدٌ أَكْرَمُ مِنْكَ أَبًا)، وَ(أَجْمَلُ مِنْكَ وَجْهًا)",
+            "Tamyiz tidak bisa terbentuk kecuali dari isim nakirah, dan tidak akan terwujud kecuali setelah sempurnanya kalimat"
+        ]
+    },
+    {
+        "bab":21,
+        "judul":"بَابُ اﻹِسْتِثْنَاءِ",
+        "nama":"bab istisna",
+        "bg":"#d946ef",
+        "position":[3],
+        "keterangan":"Huruf istitsna ada 8",
+        "image":"/image/17.svg",
+        "img":[
+            "/img/istisna.svg"
+        ],
+        "arab":[
+            "وَحُرُوفُ الِاسْتِثْنَاءِ ثَمَانِيَةٌ؛ وَهِيَ: (إِلَّا)، وَ(غَيْرُ)، وَ(سِوَى)، وَ(سُوَى)، وَ(سَوَاءٌ)، وَ(خَلَا)، وَ(عَدَا)، وَ(حَاشَا)",
+            "فَالمُسْتَثْنَى بِـ(إِلَّا): يُنْصَبُ إِذَا كَانَ الكَلَامُ تَامًّا مُوجَبً",
+            "نَحْوُ: (قَامَ القَوْمُ إِلَّا زَيْدًا)، وَ(خَرَجَ النَّاسُ إِلَّا عَمْرًا)",
+            "وَإِنْ كَانَ الكَلَامُ مَنْفِيًّا تَامًّا: جَازَ فِيهِ البَدَلُ وَالنَّصْبُ عَلَى الِاسْتِثْنَاءِ",
+            "نَحْوُ: (مَا قَامَ القَوْمُ إِلَّا زَيْدٌ)، وَ(إِلَّا زَيْدًا)",
+            "وَإِنْ كَانَ الكَلَامُ نَاقِصًا: كَانَ عَلَى حَسَبِ العَوَامِلِ",
+            "نَحْوُ: (مَا قَامَ إِلَّا زَيْدٌ)، وَ(مَا ضَرَبْتُ إِلَّا زَيْدًا)، وَ(مَا مَرَرْتُ إِلَّا بِزَيْدٍ)",
+            "وَالْمُسْتَثْنَى بِـ(غَيْرٍ)، وَ(سِوَى)، وَ(سُوَى)، وَ(سَوَاءٍ): مَجْرُورٌ لَا غَيْرُ",
+            "وَالمُسْتَثْنَى بِـ(خَلَا)، وَ(عَدَا)، وَ(حَاشَا): يَجُوزُ نَصْبُهُ وَجَرُّهُ",
+            "نَحْوُ: (قَامَ القَوْمُ خَلَا زَيْدًا وَزَيْدٍ)، وَ(عَدَا عَمْرًا وَعَمْرٍو)، وَ(حَاشَا بَكْرًا وَبَكْرٍ)"
+        ],
+        "latin":[
+            "Huruf-huruf istisna ada 8 yaitu: إِلَّا - غَيْرُ - سِوَى - سُوَى - سَوَاءٌ - خَلَا - عَدَا- حَاشَا",
+            "Mustasna dengan (إِلَّا) di-nashb-kan jika kalimat sempurna dan mujab",
+            "contoh nya: قَامَ القَوْمُ إِلَّا زَيْدًا(Kaum itu telah berdiri kecuali Zaid), خَرَجَ النَّاسُ إِلَّا عَمْرًا(Orang-orang pada keluar kecuali Amr)",
+            "dan jika kalimatnya tam sempurna maka ia boleh dijadikan badal dan dibaca nasab atas kalimat yang dikecualikan",
+            "contoh: مَا قَامَ القَوْمُ إِلَّا زَيْدٌ وَإِلَّا زَيْدًا(Kaum itu tidak ada yang berdiri kecuali Zaid)",
+            "Namun jika kalimatnya tidak sempurna maka ia di i`rob sebagaimana `amil yang masuk padanya",
+            "contoh: مَا قَامَ إِلَّا زَيْدٌ(Tidak ada yang berdiri kecuali Zaid), مَا ضَرَبْتُ إِلَّا زَيْدًا(Tidak ada yang kupukul selain Zaid), مَا مَرَرْتُ إِلَّا بِزَيْدٍ(Aku tidak berpapasan kecuali dengan Zaid)",
+            "Adapun mustasna dengan (غَيْرٍ، وَسِوَى، وَسُوَى، وَسَوَاءٍ): dibaca jar bukan yang lain",
+            "Sedangkan mustasna dengan (خَلَا، وَعَدَا، وَحَاشَا): boleh dibaca nasab dan boleh juga dibaca jar",
+            "contoh: قَامَ القَوْمُ خَلَا زَيْدًا، وَزَيْدٍ(Kaum itu berdiri kecuali Zaid), عَدَا عَمْرًا وَعَمْرٍو(Kecuali Amr), حَاشَا بَكْرًا وَبَكْرٍ(Kecuali Bakr)"
+        ]
+    },
+    {
+        "bab":22,
+        "judul":"بَابُ لَا",
+        "nama":"bab laa",
+        "bg":"#f43f5e",
+        "position":[],
+        "keterangan":"ketentuan bagi isim la ada 3 macam",
+        "image":"/image/18.svg",
+        "img":"",
+        "arab":[
+            "اِعْلَمْ أَنَّ (لَا) تَنْصِبُ النَّكِرَاتِ بِغَيْرِ تَنْوِينٍ: إِذَا بَاشَرَتِ النَّكِرَةَ، وَلَمْ تَتَكَرَّرْ (لَا). نَحْوُ: (لَا رَجُلَ فِي الدَّارِ)",
+            "فَإِنْ لَمْ تُبَاشِرْهَا: وَجَبَ الرَّفْعُ وَوَجَبَ تِكْرَارُ (لَا). نَحْوُ: (لَا فِي الدَّارِ رَجُلٌ وَلَا امْرَأَةٌ)",
+            "وَإِنْ تَكَرَّرَتْ (لَا): جَازَ إِعْمَالُهَا وَإِلْغَاؤُهَا , فَإِنْ شِئْتَ قُلْتَ: (لَا رَجُلَ فِي الدَّارِ وَلَا امْرَأَةَ) وَإِنْ شِئْتَ قُلْتَ: (لَا رَجُلٌ فِي الدَّارِ وَلَا امْرَأَةٌ)"
+        ],
+        "latin":[
+            "Ketahuilah bahwa (لَا) me-nashb-kan isim nakirah tanpa tanwin, jika bertemu langsung dengan isim nakirah, dan tidak mengulang (لَا) contoh: لَا رَجُلَ فِي الدَّارِ(Tidak ada orang (lk) di dalam rumah itu)",
+            "Jika tidak bertemu langsung dengan isim nakirah, maka wajib me-rafa`-kannya dan wajib mengulang (لَا) contoh: لَا فِي الدَّارِ رَجُلٌ وَلَا اِمْرَأَةٌ(Di rumah itu tidak ada seorang laki-laki dan tidak pula seorang wanita)",
+            "Jika (لَا) terulang, maka boleh mengamalkannya dan boleh juga tidak diamalkan. Jika kamu menginginkan boleh saja mengatakan : (لَا رَجُلَ فِي الدَّارِ وَلَا اِمْرَأَةَ) Dan jika kamu menginginkan boleh juga mengatakan: (لَا رَجُلٌ فِي الدَّارِ وَلَا اِمْرَأَةٌ)"
+        ]
+    },
+    {
+        "bab":23,
+        "judul":"بَابُ المُنَادَى",
+        "nama":"bab munada",
+        "bg":"#64748b",
+        "position":[2],
+        "keterangan":"Munada itu ada 5 macam: Mufrod 'alam, Nakirah Maqshudah, Nakirah ghairu maqshudah, Mudhaf, Syabih bil-mudhaf",
+        "image":"/image/19.svg",
+        "img":[
+            "/img/munada.svg"
+        ],
+        "arab":[
+            "المُنَادَى خَمْسَةُ أَنْوَاعٍ: المُفْرَدُ العَلَمُ، وَالنَّكِرَةُ المَقْصُودَةُ، وَالنَّكِرَةُ غَيْرُ المَقْصُودَةِ، وَالمُضَافُ، وَالمُشَبَّهُ بِالمُضَافِ",
+            "فَأَمَّا اَلْمُفْرَدُ العَلَمُ، وَالنَّكِرَةُ المَقْصُودَةُ: فَيُبْنَيَانِ عَلَى الضَّمِّ مِنْ غَيْرِ تَنْوِينٍ. نَحْوُ: (يَا زَيْدُ)، وَ(يَا رَجُلُ)",
+            "وَالثَّلَاثَةُ البَاقِيَةُ مَنْصُوبَةٌ لَا غَيْرُ. نَحْوُ: يَا رَجُلًا، وَيَا عَبْدَ اللَّهِ، وَيَا طَالِعًا جَبَلً"
+        ],
+        "latin":[
+            "Munada itu ada 5 macam: Mufrod `alam, Nakirah Maqshudah, Nakirah ghairu maqshudah, Mudhaf, Syabih bil-mudhaf",
+            "Adapun mufrad `alam dan nakirah maqshudah, keduanya mabni dhammah tanpa di tanwin contoh nya: يَا زَيْدُ(Hai Zaid), يَا رَجُلُ(Hai laki-laki)",
+            "Sedangkan tiga yang tersisa dibaca nashb bukan yang lain contoh: يَا رَجُلًا(Hai laki-laki), يَا عَبْدَ اللَّهِ(Hai Abdallah), يَا طَالِعًا جَبَلًا(Hai pendaki gunung)"
+        ]
+    },
+    {
+        "bab":24,
+        "judul":"بَابُ المَفْعُوْلِ مِنْ أَجْلِهِ",
+        "nama":"bab maf`ul min ajlih",
+        "bg":"#71717a",
+        "position":[1],
+        "keterangan":"Maf'ul min ajlih adalah isim manshub yang disebutkan untuk menjelaskan sebab terjadinya fi'il",
+        "image":"/image/20.svg",
+        "img":[
+            "/img/maful minajlih.svg"
+        ],
+        "arab":[
+            "وَهُوَ الِاسْمُ المَنْصُوبُ الَّذِي يُذْكَرُ بَيَانًا لِسَبَبِ وُقُوعِ الفِعْلِ، نَحْوُ قَوْلِكَ: (قَامَ زَيْدٌ إِجْلَالًا لِعَمْرٍو)، وَ(قَصَدْتُكَ اِبْتِغَاءَ مَعْرُوفِكَ)"
+        ],
+        "latin":[
+            "Maf`ul min ajlih adalah isim yang di nashabkan yang disebutkan untuk menjelaskan sebab terjadinya fi`il (pekerjaan) contoh nya: Zaid berdiri karena menghormati Amr : قَامَ زَيْدٌ إِجْلَالًا لِعَمْرٍو; Aku menemuimu karena mengharapkan kebaikan darimu : قَصَدْتُكَ اِبْتِغَاءَ مَعْرُوفِكَ"
+        ]
+    },
+    {
+        "bab":25,
+        "judul":"بَابُ المَفْعُوْلِ مَعَهُ",
+        "nama":"bab maf`ul maah",
+        "bg":"#78716c",
+        "position":[1],
+        "keterangan":"Maf'ul ma'ah adalah isim manshub yang disebutkan untuk menjelaskan bersama siapa fi'il",
+        "image":"/image/21.svg",
+        "img":[
+            "/img/mafulmaah.svg"
+        ],
+        "arab":[
+            "وَهُوَ الِاسْمُ المَنْصُوبُ الَّذِي يُذْكَرُ لِبَيَانِ مَنْ فُعِلَ مَعَهُ الفِعْلُ. نَحْوُ قَوْلِكَ: (جَاءَ الأَمِيرُ وَالْجَيْشَ)، وَ(اسْتَوَى المَاءُ وَالخَشَبَةَ)",
+            "وَأَمَّا خَبَرُ (كَانَ) وَأَخَوَاتِهَا، وَاسْمُ (إِنَّ) وَأَخَوَاتِهَا: فَقَدْ تَقَدَّمَ ذِكْرُهُمَا فِي المَرْفُوعَاتِ. وَكَذَلِكَ التَّوَابِعُ: فَقَدْ تَقَدَّمَتْ هُنَاكَ"
+        ],
+        "latin":[
+            "Maf`ul ma`ah adalah isim yang di nashabkan yang disebutkan untuk menjelaskan bersama siapa fi`il (pekerjaan) dikerjakan contoh nya: جَاءَ اَلْأَمِيرُ وَالْجَيْشَ(Pemimpin datang bersama pasukan), اِسْتَوَى اَلْمَاءُ وَالْخَشَبَةَ( Air itu pasang disertai kayu)",
+            "Adapun khabar (كَانَ) dan saudara-saudaranya, isim (إِنَّ) dan saudara-saudaranya, telah berlalu pembahasannya dalam المَرْفُوعَاتِ (yang dibaca rafa`), Demikian juga tawabi` telah berlalu pembahasannya di sana"
+        ]
+    },
+    {
+        "bab":26,
+        "judul":"بَابُ مَخْفُوْضَاتِ الأَسْمَاءِ",
+        "nama":"bab makhfudotil asma`",
+        "bg":"#f97316",
+        "position":[3],
+        "keterangan":"Makhfudhat itu ada 3 macam",
+        "image":"/image/22.svg",
+        "img":[
+            "/img/bilmudof.svg"
+        ],
+        "arab":[
+            "المَخْفُوضَاتُ ثَلَاثَةُ أَنْوَاعٍ: مَخْفُوضٌ بِالحَرْفِ، وَمَخْفُوضٌ بِالإِضَافَةِ، وَتَابِعٌ لِلمَخْفُوضِ",
+            "فَأَمَّا المَخْفُوضُ بِالحَرْفِ فَهُوَ مَا يَخْتَصُّ بِـ(مِنْ)، وَ(إِلَى)، وَ(عَنْ)، وَ(عَلَى)، وَ(فِي)، وَ(رُبَّ)، وَ(الْبَاءِ)، وَ(الْكَافِ)، وَ(اللَّامِ)، وَبِحُرُوفِ القَسَمِ – وَهِيَ: (الوَاوُ)، وَ(الْبَاءُ)، وَ(التَّاءُ)، وَبِـ(وَاوِ رُبَّ)، وَبِـ(مُذْ)، وَ(مُنْذُ)",
+            "وَأَمَّا مَا يُخْفَضُ بِالْإِضَافَةِ؛ فَنَحْوُ قَوْلِكَ: (غُلَامُ زَيْدٍْ)",
+            "وَهُوَ عَلَى قِسْمَيْنِ: مَا يُقَدَّرُ بِـ(اللَّامِ)، وَمَا يُقَدَّرُ بِـ(مِنْ)",
+            "فَالَّذِي يُقَدَّرُ بِـ(اللَّامِ)؛ نَحْوُ قَوْلِكَ: (غُلَامُ زَيْدٍ)",
+            "وَالَّذِي يُقَدَّرُ بِـ(مِنْ)؛ نَحْوُ قَوْلِكَ: (ثَوْبُ خَزٍّ)، وَ(بَابُ سَاجٍ)، وَ(خَاتَمُ حَدِيدٍ)"
+        ],
+        "latin":[
+            "yang di khofadkan itu ada 3 macam: مَخْفُوضٌ بِالحَرْفِ، وَمَخْفُوضٌ بِالإِضَافَةِ، وَتَابِعٌ لِلمَخْفُوضِ",
+            "yang di khofadkan dengan huruf, yaitu: isim yang dibaca khafdh dengan: min, ilaa, `an, `alaa, fiy, rubba, al-baa-i, al-kaafi, al-laami, dan juga dengan huruf sumpah: al-waawu, al-baa-u, at-taa-u. Atau dengan wawu yang semakna dengan rubbah, mudz, dan mundzu",
+            "Sedangkan yang dibaca khafdh karena idhafah, contoh nya: غُلَامُ زَيْدٍ(pembantu si Zaid)",
+            "Isim yang di khafdh karena idhafah ada 2 macam: Yang diperkirakan dengan makna (اللام) = milik - dan diperkirakan dengan makna (من) = dari",
+            "yang diperkirakan dengan makna (اللام) = milik, contohnya: غُلَامُ زَيْدٍ(Pelayan milik Zaid)",
+            "Yang diperkirakan dengan makna (من) = dari, contohnya: ثَوْبُ خَزٍّ(Baju dari sutera), بَابُ سَاجٍ(Pintu dari Jati), خَاتَمُ حَدِيدٍ(Cincin dari besi)"
+        ]
+    }
+]
